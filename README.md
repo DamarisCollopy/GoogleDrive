@@ -34,4 +34,5 @@ Seja bem vindo(a) à quinta Semana Javascript Expert. Este é o código inicial 
     - [] Deve exibir progresso de upload 
     - [] Deve ter função de upload via drag and drop
 
-
+## Créditos ao Layout <3
+   O Layout foi adaptado a partir do projeto do brasileiro Leonardo Santo disponibilizado no codepen.
