@@ -9,6 +9,14 @@ Seja bem vindo(a) à quinta Semana Javascript Expert. Este é o código inicial 
     * "pretty-bytes": "^5.6.0",
     * "socket.io": "4.1"
     * "jest": "^27.1.0"
+    
+## Start test
+   
+   Dentro da pasta gdrive-webapi
+   * Teste TDD
+   $ npm run test:watch
+   * Start
+   $ npm start
 
 ## Checklist Features
 
