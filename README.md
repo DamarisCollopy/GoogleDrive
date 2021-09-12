@@ -13,10 +13,10 @@ Seja bem vindo(a) à quinta Semana Javascript Expert. Este é o código inicial 
 ## Start test
    
    Dentro da pasta gdrive-webapi
-   * Teste TDD
-   $ npm run test:watch
-   * Start
-   $ npm start
+   * Teste :
+      $ npm run test:watch
+   * Start :
+      $ npm start
 
 ## Checklist Features
 
